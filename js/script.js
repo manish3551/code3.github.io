@@ -1,6 +1,6 @@
 function openMenu(){
-    document.getElementById("mobile-nav").style.right ="0px";
+    document.getElementById("mobile-nav").style.left ="0px";
 }
 function closeMenu(){
-    document.getElementById("mobile-nav").style.right="-280px"
+    document.getElementById("mobile-nav").style.left="-280px"
 }
