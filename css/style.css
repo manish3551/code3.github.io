@@ -531,7 +531,7 @@
     #mobile-nav{
         position: absolute;
         top: 90px;
-        right: 0;
+        left: 0;
         height: 100vh;
         width: 280px;
         padding: 0px;
@@ -552,7 +552,7 @@
         font-size: 25px;
     }
     #mobile-nav{
-        right: -380px;
+        left: -380px;
         transition: all 0.5s ease-in;
     }
  }
